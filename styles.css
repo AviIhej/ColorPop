@@ -1,0 +1,97 @@
+.body{
+    font-family: Raleway;
+
+}
+#navbar {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}
+
+#bs-example-navbar-collapse-1 li {
+color: black;
+}
+
+.container{
+    font-family: Raleway;
+}
+.topInfo{
+    background: black;
+    width:100%
+    height: 50px;
+}
+.topInfo p{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.navbar .navbar-inverse .container-fluid .navbar-header{
+    margin-bottom: 0;
+}
+.container-fluid{
+    height: 100px;
+}
+.topTitles{
+
+    text-align: center;
+
+}
+.topTitles h4{
+    text-align: center;
+    display: inline-block;
+    margin-left: 25px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.banner1{
+
+}
+.banner1 img{
+    width: 100%
+}
+.underBannerPromo{
+    background: #000000;
+    color: #FFFFFF;
+    width: 100%;
+    height: 80px;
+    padding: none;
+    text-align: center;
+}
+.underBannerPromo h1{
+    padding-top: 20px;
+}
+.caption{
+    text-align: center;
+}
+.row{
+    padding-top: 20px;
+}
+.row .thumbnail{
+    border: 0 none;
+    box-shadow: none;
+    width: 100%;
+
+}
+.thumbnail img:hover{
+opacity: .5;
+background:  #9DD2E2;
+}
+
+
+/*img{
+    height: 300px;
+    width: 200px;
+}
+.navbar{
+    min-height: 100px;
+}
+.container{
+    min-height: 100px;
+}*/
+
+/*.navbar-collapse{
+    background:  #F7F7F7;
+    padding-top: 50px;
+}
+.container{
+    background:  #9DD2E2;
+}*/
